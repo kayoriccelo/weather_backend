@@ -3,7 +3,7 @@ from django.utils.translation import ugettext_lazy as _
 
 
 class History(models.Model):
-    date = models.DateField(_('Date'))
+    date = models.DateTimeField(_('Date'))
     search = models.CharField(_(u'Search'), max_length=140)
     
     class Meta:
