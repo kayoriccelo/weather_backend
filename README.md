@@ -1,12 +1,12 @@
 # Weather Forecast
  
- ### Python 3.7
+ ### Python 3.6
     
  - ###### Instalação no Ubuntu
        sudo apt update
        sudo apt install software-properties-common
        sudo add-apt-repository ppa:deadsnakes/ppa
-       sudo apt install python3.7
+       sudo apt install python3.6
        python3.7 --version
 
  ### Virtualenv
