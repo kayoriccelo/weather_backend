@@ -7,7 +7,7 @@
        sudo apt install software-properties-common
        sudo add-apt-repository ppa:deadsnakes/ppa
        sudo apt install python3.6
-       python3.7 --version
+       python3.6 --version
 
  ### Virtualenv
 
